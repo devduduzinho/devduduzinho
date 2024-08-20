@@ -8,5 +8,5 @@
 <div>
   <a href="https://github.com/devduduzinho">
     <img height="180em" src="https://">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho&theme=dark&show_icons=true)
 </div>
