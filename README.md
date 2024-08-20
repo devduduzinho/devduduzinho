@@ -5,6 +5,6 @@
 - 📫 Contate-me no email: www.eduardo2005-12@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho&show_icons=true&theme=highcontrast)
-</div>
+
