@@ -7,5 +7,5 @@
 
 <div>
   <a href="https://github.com/devduduzinho">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho&theme=dark&show_icons=true)
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
