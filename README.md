@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devduduzinho&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devduduzinho&langs_count=8)
 
 
 <div style="display: inline_block"><br>
