@@ -6,4 +6,4 @@
 - 😄 Pronouns: ele/dele
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devduduzinho&show_icons=true&theme=highcontrast)
